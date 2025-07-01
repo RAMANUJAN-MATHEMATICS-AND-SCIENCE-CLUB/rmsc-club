@@ -1,0 +1,62 @@
+.about-container {
+  padding: 2rem;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #fffefc;
+}
+
+.about-header {
+  background-color: #e1f5fe;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.about-header h1 {
+  color: #0d47a1;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.about-header p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.about-objectives {
+  margin-top: 2.5rem;
+  background-color: #f9fbe7;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.about-objectives h2 {
+  color: #33691e;
+  margin-bottom: 1rem;
+}
+
+.about-objectives ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about-objectives li {
+  font-size: 1.1rem;
+  margin-bottom: 0.8rem;
+}
+
+.about-message {
+  margin-top: 2.5rem;
+  background-color: #fce4ec;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.about-message h2 {
+  color: #880e4f;
+  margin-bottom: 1rem;
+}
+
+.about-message p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
