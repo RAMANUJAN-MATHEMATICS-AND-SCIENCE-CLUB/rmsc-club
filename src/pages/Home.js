@@ -37,7 +37,7 @@ const Home = () => {
           <p className="hero-tagline">
             Igniting logic, science and creativity through vibrant learning experiences.
           </p>
-          <a href="/events" className="hero-button">Explore Events</a>
+          <a href="src/pages/events" className="hero-button">Explore Events</a>
         </motion.div>
         <motion.img
           src={clubImage}
