@@ -7,6 +7,8 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
+
 
 const fadeUp = {
   hidden: { opacity: 0, y: 30 },
